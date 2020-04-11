@@ -1,0 +1,53 @@
+2020-04-11 11:00:38 WARNING  - @udp_server_run - [WinError 10040] Le dimensioni del messaggio inviato su un socket di datagramma sono maggiori del buffer interno dei messaggi o di un altro limite di rete oppure le dimensioni del buffer di ricezione del datagramma sono inferiori quelle del datagramma stesso
+2020-04-11 11:17:16 ERROR    - @udp_server_set_up - OverflowError: Python int too large to convert to C long
+2020-04-11 11:17:23 ERROR    - @udp_server_set_up - OverflowError: getsockaddrarg: port must be 0-65535.
+2020-04-11 11:17:28 ERROR    - @udp_server_set_up - Socket.error: [Errno 11001] getaddrinfo failed
+2020-04-11 11:20:29 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:21:32 INFO     - Received 114 Bytes from 192.168.1.153:4040
+2020-04-11 11:23:42 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:24:51 INFO     - Received 110 Bytes from 192.168.1.153:4040
+2020-04-11 11:25:57 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:27:02 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:28:07 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:29:12 INFO     - Received 114 Bytes from 192.168.1.153:4040
+2020-04-11 11:30:17 INFO     - Received 114 Bytes from 192.168.1.153:4040
+2020-04-11 11:31:26 INFO     - Received 110 Bytes from 192.168.1.153:4040
+2020-04-11 11:32:31 INFO     - Received 114 Bytes from 192.168.1.153:4040
+2020-04-11 11:34:43 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:35:48 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:36:53 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:38:02 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:40:16 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:41:22 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:42:31 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:43:40 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:44:45 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:45:50 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:46:55 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:48:00 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:49:05 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:50:15 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:51:20 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:52:39 INFO     - Received 110 Bytes from 192.168.1.153:4040
+2020-04-11 11:53:43 INFO     - Received 110 Bytes from 192.168.1.153:4040
+2020-04-11 11:54:49 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:55:55 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:57:00 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:58:05 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 11:59:14 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:01:28 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:02:39 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:03:47 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:04:56 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:06:02 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:07:11 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:08:16 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:09:21 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:10:26 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:13:45 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:14:55 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:16:05 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:17:22 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:18:27 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:20:51 INFO     - Received 112 Bytes from 192.168.1.153:4040
+2020-04-11 12:22:03 INFO     - Received 112 Bytes from 192.168.1.153:4040
